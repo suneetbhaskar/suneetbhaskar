@@ -15,6 +15,9 @@
 <p align="left">
 <a href="https://twitter.com/syneer_suneet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syneer_suneet" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suneet singh bhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suneet singh bhaskar" height="30" width="40" /></a>
+<a href="https://fb.com/suneet bhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suneet bhaskar" height="30" width="40" /></a>
+<a href="https://instagram.com/suneet._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suneet._" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/suneet singh bhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suneet singh bhaskar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mpldzvruol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mpldzvruol" height="30" width="40" /></a>
 </p>
 
